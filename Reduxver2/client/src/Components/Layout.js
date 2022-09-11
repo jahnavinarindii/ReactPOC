@@ -5,7 +5,7 @@ import { useState } from "react";
 import axios from "axios";
 import InsuranceForm from "./InsuranceForm";
 import "./Layout.css";
-import * as actions from 'C:/Users/jnarindi/Desktop/gittu/Reduxver2/client/src/redux/formdataAction.js';
+import * as actions from  'C:/Users/jnarindi/Desktop/gitsstore/Reduxver2/client/src/redux/formdataAction.js';
 import { connect } from "react-redux";
 //import {  useDispatch } from "react-redux";
 
